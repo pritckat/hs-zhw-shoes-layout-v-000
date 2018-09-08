@@ -36,3 +36,8 @@
   height: 0;
   line-height: 0;
 }
+
+[class*="col-"] {
+  float: left;
+  margin-left: 2%;
+}
