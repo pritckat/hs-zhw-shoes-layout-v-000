@@ -28,4 +28,6 @@
   margin-bottom: 2%;
 }
 
-.row:after {}
+.row:after {
+  content: ".";
+}
