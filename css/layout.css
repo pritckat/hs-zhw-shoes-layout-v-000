@@ -28,7 +28,4 @@
   margin-bottom: 2%;
 }
 
-.row:after {
-  content: ".";
-  
-}
+.row:after {}
